@@ -1,0 +1,15 @@
+{
+  "name": "autoloading",
+  "version": "0.0.0",
+  "description": "Test module for autoloading",
+  "main": "solver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Alfonso de la Osa",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "~3.2.1"
+  }
+}
